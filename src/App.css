@@ -34,4 +34,11 @@ input {
   display: block;
   margin-right: auto;
   margin-left: auto;
+  background: rgba(157, 24, 24, 0.1);
+  border: none;
+  padding: 15px;
+  background-color: #f5feff;
+  color: #0cae2d;
+  box-shadow: 0 1px 0 rgba(0,0,0,0.03) inset;
+  border-radius: 30px;
 }
