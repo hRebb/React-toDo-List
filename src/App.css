@@ -6,6 +6,10 @@ body {
   background-image: linear-gradient(147deg, #FFE53B 0%, #FF2525 74%);
 }
 
+main {
+  line-height: 50vh;
+}
+
 li {
   line-height: 20vh;
 }
@@ -24,4 +28,10 @@ button:hover {
   background-position: right center; /* change the direction of the change here */
   color: #fff;
   text-decoration: none;
+}
+
+input {
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
 }
